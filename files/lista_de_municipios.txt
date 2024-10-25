@@ -1,0 +1,859 @@
+## ID: 1 || cidade: ABADIA DOS DOURADOS || num de processos: Total de Registros: 882
+## ID: 2 || cidade: ABAETÉ || num de processos: Total de Registros: 1602
+## ID: 3 || cidade: ABRE CAMPO || num de processos: Total de Registros: 811
+## ID: 4 || cidade: ACAIACA || num de processos: Total de Registros: 172
+## ID: 5 || cidade: AÇUCENA || num de processos: Total de Registros: 397
+## ID: 6 || cidade: ÁGUA BOA || num de processos: Total de Registros: 532
+## ID: 7 || cidade: ÁGUA COMPRIDA || num de processos: Total de Registros: 806
+## ID: 8 || cidade: AGUANIL || num de processos: Total de Registros: 307
+## ID: 9 || cidade: ÁGUAS FORMOSAS || num de processos: Total de Registros: 453
+## ID: 10 || cidade: ÁGUAS VERMELHAS || num de processos: Total de Registros: 535
+## ID: 11 || cidade: AIMORÉS || num de processos: Total de Registros: 1432
+## ID: 12 || cidade: AIURUOCA || num de processos: Total de Registros: 243
+## ID: 13 || cidade: ALAGOA || num de processos: Total de Registros: 101
+## ID: 14 || cidade: ALBERTINA || num de processos: Total de Registros: 71
+## ID: 15 || cidade: ALÉM PARAÍBA || num de processos: Total de Registros: 565
+## ID: 16 || cidade: ALFENAS || num de processos: Total de Registros: 1435
+## ID: 17 || cidade: ALMENARA || num de processos: Total de Registros: 990
+## ID: 18 || cidade: ALPERCATA || num de processos: Total de Registros: 317
+## ID: 19 || cidade: ALPINÓPOLIS || num de processos: Total de Registros: 1204
+## ID: 20 || cidade: ALTEROSA || num de processos: Total de Registros: 604
+## ID: 21 || cidade: ALTO RIO DOCE || num de processos: Total de Registros: 524
+## ID: 22 || cidade: ALVARENGA || num de processos: Total de Registros: 313
+## ID: 23 || cidade: ALVINÓPOLIS || num de processos: Total de Registros: 901
+## ID: 24 || cidade: ALVORADA DE MINAS || num de processos: Total de Registros: 188
+## ID: 25 || cidade: AMPARO DA SERRA || num de processos: Total de Registros: 275
+## ID: 26 || cidade: ANDRADAS || num de processos: Total de Registros: 1132
+## ID: 27 || cidade: CACHOEIRA DE PAJEÚ || num de processos: Total de Registros: 292
+## ID: 28 || cidade: ANDRELÂNDIA || num de processos: Total de Registros: 428
+## ID: 29 || cidade: ANTÔNIO CARLOS || num de processos: Total de Registros: 465
+## ID: 30 || cidade: ANTÔNIO DIAS || num de processos: Total de Registros: 605
+## ID: 31 || cidade: ANTÔNIO PRADO DE MINAS || num de processos: Total de Registros: 63
+## ID: 32 || cidade: ARAÇAÍ || num de processos: Total de Registros: 167
+## ID: 33 || cidade: ARACITABA || num de processos: Total de Registros: 82
+## ID: 34 || cidade: ARAÇUAÍ || num de processos: Total de Registros: 1528
+## ID: 35 || cidade: ARAGUARI || num de processos: Total de Registros: 7107
+## ID: 36 || cidade: ARANTINA || num de processos: Total de Registros: 79
+## ID: 37 || cidade: ARAPONGA || num de processos: Total de Registros: 292
+## ID: 38 || cidade: ARAPUÁ || num de processos: Total de Registros: 318
+## ID: 39 || cidade: ARAÚJOS || num de processos: Total de Registros: 830
+## ID: 40 || cidade: ARAXÁ || num de processos: Total de Registros: 2616
+## ID: 41 || cidade: ARCEBURGO || num de processos: Total de Registros: 381
+## ID: 42 || cidade: ARCOS || num de processos: Total de Registros: 2073
+## ID: 43 || cidade: AREADO || num de processos: Total de Registros: 450
+## ID: 44 || cidade: ARGIRITA || num de processos: Total de Registros: 160
+## ID: 45 || cidade: ARINOS || num de processos: Total de Registros: 1742
+## ID: 46 || cidade: ASTOLFO DUTRA || num de processos: Total de Registros: 538
+## ID: 47 || cidade: ATALÉIA || num de processos: Total de Registros: 489
+## ID: 48 || cidade: AUGUSTO DE LIMA || num de processos: Total de Registros: 401
+## ID: 49 || cidade: BAEPENDI || num de processos: Total de Registros: 607
+## ID: 50 || cidade: BALDIM || num de processos: Total de Registros: 570
+## ID: 51 || cidade: BAMBUÍ || num de processos: Total de Registros: 1630
+## ID: 52 || cidade: BANDEIRA || num de processos: Total de Registros: 117
+## ID: 53 || cidade: BANDEIRA DO SUL || num de processos: Total de Registros: 101
+## ID: 54 || cidade: BARÃO DE COCAIS || num de processos: Total de Registros: 765
+## ID: 55 || cidade: BARÃO DE MONTE ALTO || num de processos: Total de Registros: 117
+## ID: 56 || cidade: BARBACENA || num de processos: Total de Registros: 2501
+## ID: 57 || cidade: BARRA LONGA || num de processos: Total de Registros: 485
+## ID: 58 || cidade: TRÊS MARIAS || num de processos: Total de Registros: 1672
+## ID: 59 || cidade: BARROSO || num de processos: Total de Registros: 289
+## ID: 60 || cidade: BELMIRO BRAGA || num de processos: Total de Registros: 225
+## ID: 61 || cidade: BELA VISTA DE MINAS || num de processos: Total de Registros: 152
+## ID: 62 || cidade: BELO HORIZONTE || num de processos: Total de Registros: 4159
+## ID: 63 || cidade: BELO ORIENTE || num de processos: Total de Registros: 1865
+## ID: 64 || cidade: BELO VALE || num de processos: Total de Registros: 593
+## ID: 65 || cidade: BERILO || num de processos: Total de Registros: 444
+## ID: 66 || cidade: BERTÓPOLIS || num de processos: Total de Registros: 151
+## ID: 67 || cidade: BETIM || num de processos: Total de Registros: 1975
+## ID: 68 || cidade: BIAS FORTES || num de processos: Total de Registros: 107
+## ID: 69 || cidade: BICAS || num de processos: Total de Registros: 236
+## ID: 70 || cidade: BIQUINHAS || num de processos: Total de Registros: 428
+## ID: 71 || cidade: BOA ESPERANÇA || num de processos: Total de Registros: 1016
+## ID: 72 || cidade: BOCAINA DE MINAS || num de processos: Total de Registros: 138
+## ID: 73 || cidade: BOCAIÚVA || num de processos: Total de Registros: 2296
+## ID: 74 || cidade: BOM DESPACHO || num de processos: Total de Registros: 2325
+## ID: 75 || cidade: BOM JARDIM DE MINAS || num de processos: Total de Registros: 155
+## ID: 76 || cidade: BOM JESUS DA PENHA || num de processos: Total de Registros: 369
+## ID: 77 || cidade: BOM JESUS DO AMPARO || num de processos: Total de Registros: 373
+## ID: 78 || cidade: BOM JESUS DO GALHO || num de processos: Total de Registros: 1000
+## ID: 79 || cidade: BOM REPOUSO || num de processos: Total de Registros: 1119
+## ID: 80 || cidade: BOM SUCESSO || num de processos: Total de Registros: 524
+## ID: 81 || cidade: BONFIM || num de processos: Total de Registros: 564
+## ID: 82 || cidade: BONFINÓPOLIS DE MINAS || num de processos: Total de Registros: 572
+## ID: 83 || cidade: BORDA DA MATA || num de processos: Total de Registros: 705
+## ID: 84 || cidade: BOTELHOS || num de processos: Total de Registros: 708
+## ID: 85 || cidade: BOTUMIRIM || num de processos: Total de Registros: 583
+## ID: 86 || cidade: BRASÍLIA DE MINAS || num de processos: Total de Registros: 818
+## ID: 87 || cidade: BRÁS PIRES || num de processos: Total de Registros: 211
+## ID: 88 || cidade: BRAÚNAS || num de processos: Total de Registros: 350
+## ID: 89 || cidade: BRASÓPOLIS || num de processos: Total de Registros: 364
+## ID: 90 || cidade: BRUMADINHO || num de processos: Total de Registros: 1452
+## ID: 91 || cidade: BUENO BRANDÃO || num de processos: Total de Registros: 907
+## ID: 92 || cidade: BUENÓPOLIS || num de processos: Total de Registros: 460
+## ID: 93 || cidade: BURITIS || num de processos: Total de Registros: 2032
+## ID: 94 || cidade: BURITIZEIRO || num de processos: Total de Registros: 1478
+## ID: 95 || cidade: CABO VERDE || num de processos: Total de Registros: 506
+## ID: 96 || cidade: CACHOEIRA DA PRATA || num de processos: Total de Registros: 149
+## ID: 97 || cidade: CACHOEIRA DE MINAS || num de processos: Total de Registros: 469
+## ID: 98 || cidade: CACHOEIRA DOURADA || num de processos: Total de Registros: 303
+## ID: 99 || cidade: CAETANÓPOLIS || num de processos: Total de Registros: 426
+## ID: 100 || cidade: CAETÉ || num de processos: Total de Registros: 928
+## ID: 101 || cidade: CAIANA || num de processos: Total de Registros: 198
+## ID: 102 || cidade: CAJURI || num de processos: Total de Registros: 214
+## ID: 103 || cidade: CALDAS || num de processos: Total de Registros: 894
+## ID: 104 || cidade: CAMACHO || num de processos: Total de Registros: 394
+## ID: 105 || cidade: CAMANDUCAIA || num de processos: Total de Registros: 1091
+## ID: 106 || cidade: CAMBUÍ || num de processos: Total de Registros: 1148
+## ID: 107 || cidade: CAMBUQUIRA || num de processos: Total de Registros: 278
+## ID: 108 || cidade: CAMPANÁRIO || num de processos: Total de Registros: 142
+## ID: 109 || cidade: CAMPANHA || num de processos: Total de Registros: 495
+## ID: 110 || cidade: CAMPESTRE || num de processos: Total de Registros: 543
+## ID: 111 || cidade: CAMPINA VERDE || num de processos: Total de Registros: 3602
+## ID: 112 || cidade: CAMPO BELO || num de processos: Total de Registros: 1148
+## ID: 113 || cidade: CAMPO DO MEIO || num de processos: Total de Registros: 264
+## ID: 114 || cidade: CAMPO FLORIDO || num de processos: Total de Registros: 1153
+## ID: 115 || cidade: CAMPOS ALTOS || num de processos: Total de Registros: 955
+## ID: 116 || cidade: CAMPOS GERAIS || num de processos: Total de Registros: 1303
+## ID: 117 || cidade: CANAÃ || num de processos: Total de Registros: 278
+## ID: 118 || cidade: CANÁPOLIS || num de processos: Total de Registros: 826
+## ID: 119 || cidade: CANA VERDE || num de processos: Total de Registros: 299
+## ID: 120 || cidade: CANDEIAS || num de processos: Total de Registros: 843
+## ID: 121 || cidade: ALTO CAPARAÓ || num de processos: Total de Registros: 108
+## ID: 122 || cidade: CAPELA NOVA || num de processos: Total de Registros: 148
+## ID: 123 || cidade: CAPELINHA || num de processos: Total de Registros: 1584
+## ID: 124 || cidade: CAPETINGA || num de processos: Total de Registros: 540
+## ID: 125 || cidade: CAPIM BRANCO || num de processos: Total de Registros: 278
+## ID: 126 || cidade: CAPINÓPOLIS || num de processos: Total de Registros: 1186
+## ID: 127 || cidade: CAPITÃO ENÉAS || num de processos: Total de Registros: 602
+## ID: 128 || cidade: CAPITÓLIO || num de processos: Total de Registros: 1464
+## ID: 129 || cidade: CAPUTIRA || num de processos: Total de Registros: 411
+## ID: 130 || cidade: CARAÍ || num de processos: Total de Registros: 492
+## ID: 131 || cidade: CARANAÍBA || num de processos: Total de Registros: 158
+## ID: 132 || cidade: CARANDAÍ || num de processos: Total de Registros: 859
+## ID: 133 || cidade: CARANGOLA || num de processos: Total de Registros: 608
+## ID: 134 || cidade: CARATINGA || num de processos: Total de Registros: 2694
+## ID: 135 || cidade: CARBONITA || num de processos: Total de Registros: 568
+## ID: 136 || cidade: CAREAÇU || num de processos: Total de Registros: 235
+## ID: 137 || cidade: CARLOS CHAGAS || num de processos: Total de Registros: 1073
+## ID: 138 || cidade: CARMÉSIA || num de processos: Total de Registros: 151
+## ID: 139 || cidade: CARMO DA CACHOEIRA || num de processos: Total de Registros: 504
+## ID: 140 || cidade: CARMO DA MATA || num de processos: Total de Registros: 439
+## ID: 141 || cidade: CARMO DE MINAS || num de processos: Total de Registros: 381
+## ID: 142 || cidade: CARMO DO CAJURU || num de processos: Total de Registros: 1738
+## ID: 143 || cidade: CARMO DO PARANAÍBA || num de processos: Total de Registros: 2711
+## ID: 144 || cidade: CARMO DO RIO CLARO || num de processos: Total de Registros: 1732
+## ID: 145 || cidade: CARMÓPOLIS DE MINAS || num de processos: Total de Registros: 963
+## ID: 146 || cidade: CARRANCAS || num de processos: Total de Registros: 288
+## ID: 147 || cidade: CARVALHÓPOLIS || num de processos: Total de Registros: 138
+## ID: 148 || cidade: CARVALHOS || num de processos: Total de Registros: 147
+## ID: 149 || cidade: CASA GRANDE || num de processos: Total de Registros: 181
+## ID: 150 || cidade: CASCALHO RICO || num de processos: Total de Registros: 408
+## ID: 151 || cidade: CÁSSIA || num de processos: Total de Registros: 1339
+## ID: 152 || cidade: CONCEIÇÃO DA BARRA DE MINAS || num de processos: Total de Registros: 137
+## ID: 153 || cidade: CATAGUASES || num de processos: Total de Registros: 1168
+## ID: 154 || cidade: CATAS ALTAS DA NORUEGA || num de processos: Total de Registros: 197
+## ID: 155 || cidade: CAXAMBU || num de processos: Total de Registros: 279
+## ID: 156 || cidade: CEDRO DO ABAETÉ || num de processos: Total de Registros: 130
+## ID: 157 || cidade: CENTRAL DE MINAS || num de processos: Total de Registros: 245
+## ID: 158 || cidade: CENTRALINA || num de processos: Total de Registros: 488
+## ID: 159 || cidade: CHÁCARA || num de processos: Total de Registros: 203
+## ID: 160 || cidade: CHALÉ || num de processos: Total de Registros: 458
+## ID: 161 || cidade: CHAPADA DO NORTE || num de processos: Total de Registros: 308
+## ID: 162 || cidade: CHIADOR || num de processos: Total de Registros: 68
+## ID: 163 || cidade: CIPOTÂNEA || num de processos: Total de Registros: 140
+## ID: 164 || cidade: CLARAVAL || num de processos: Total de Registros: 213
+## ID: 165 || cidade: CLARO DOS POÇÕES || num de processos: Total de Registros: 449
+## ID: 166 || cidade: CLÁUDIO || num de processos: Total de Registros: 1932
+## ID: 167 || cidade: COIMBRA || num de processos: Total de Registros: 627
+## ID: 168 || cidade: COLUNA || num de processos: Total de Registros: 384
+## ID: 169 || cidade: COMENDADOR GOMES || num de processos: Total de Registros: 792
+## ID: 170 || cidade: COMERCINHO || num de processos: Total de Registros: 174
+## ID: 171 || cidade: CONCEIÇÃO DA APARECIDA || num de processos: Total de Registros: 557
+## ID: 172 || cidade: CONCEIÇÃO DAS ALAGOAS || num de processos: Total de Registros: 2308
+## ID: 173 || cidade: CONCEIÇÃO DAS PEDRAS || num de processos: Total de Registros: 114
+## ID: 174 || cidade: CONCEIÇÃO DE IPANEMA || num de processos: Total de Registros: 466
+## ID: 175 || cidade: CONCEIÇÃO DO MATO DENTRO || num de processos: Total de Registros: 1058
+## ID: 176 || cidade: CONCEIÇÃO DO PARÁ || num de processos: Total de Registros: 895
+## ID: 177 || cidade: CONCEIÇÃO DO RIO VERDE || num de processos: Total de Registros: 297
+## ID: 178 || cidade: CONCEIÇÃO DOS OUROS || num de processos: Total de Registros: 559
+## ID: 179 || cidade: CONGONHAL || num de processos: Total de Registros: 841
+## ID: 180 || cidade: CONGONHAS || num de processos: Total de Registros: 891
+## ID: 181 || cidade: CONGONHAS DO NORTE || num de processos: Total de Registros: 227
+## ID: 182 || cidade: CONQUISTA || num de processos: Total de Registros: 716
+## ID: 183 || cidade: CONSELHEIRO LAFAIETE || num de processos: Total de Registros: 1482
+## ID: 184 || cidade: CONSELHEIRO PENA || num de processos: Total de Registros: 1238
+## ID: 185 || cidade: CONSOLAÇÃO || num de processos: Total de Registros: 195
+## ID: 186 || cidade: CONTAGEM || num de processos: Total de Registros: 2027
+## ID: 187 || cidade: COQUEIRAL || num de processos: Total de Registros: 394
+## ID: 188 || cidade: CORAÇÃO DE JESUS || num de processos: Total de Registros: 1503
+## ID: 189 || cidade: CORDISBURGO || num de processos: Total de Registros: 481
+## ID: 190 || cidade: CORDISLÂNDIA || num de processos: Total de Registros: 92
+## ID: 191 || cidade: CORINTO || num de processos: Total de Registros: 907
+## ID: 192 || cidade: COROACI || num de processos: Total de Registros: 540
+## ID: 193 || cidade: COROMANDEL || num de processos: Total de Registros: 3750
+## ID: 194 || cidade: CORONEL FABRICIANO || num de processos: Total de Registros: 974
+## ID: 195 || cidade: CORONEL MURTA || num de processos: Total de Registros: 424
+## ID: 196 || cidade: CORONEL PACHECO || num de processos: Total de Registros: 161
+## ID: 197 || cidade: CORONEL XAVIER CHAVES || num de processos: Total de Registros: 230
+## ID: 198 || cidade: CÓRREGO DANTA || num de processos: Total de Registros: 478
+## ID: 199 || cidade: CÓRREGO DO BOM JESUS || num de processos: Total de Registros: 327
+## ID: 200 || cidade: CÓRREGO NOVO || num de processos: Total de Registros: 242
+## ID: 201 || cidade: COUTO DE MAGALHÃES DE MINAS || num de processos: Total de Registros: 149
+## ID: 202 || cidade: CRISTAIS || num de processos: Total de Registros: 512
+## ID: 203 || cidade: CRISTÁLIA || num de processos: Total de Registros: 466
+## ID: 204 || cidade: CRISTIANO OTONI || num de processos: Total de Registros: 270
+## ID: 205 || cidade: CRISTINA || num de processos: Total de Registros: 397
+## ID: 206 || cidade: CRUCILÂNDIA || num de processos: Total de Registros: 359
+## ID: 207 || cidade: CRUZEIRO DA FORTALEZA || num de processos: Total de Registros: 456
+## ID: 208 || cidade: CRUZÍLIA || num de processos: Total de Registros: 483
+## ID: 209 || cidade: CURVELO || num de processos: Total de Registros: 2707
+## ID: 210 || cidade: DATAS || num de processos: Total de Registros: 336
+## ID: 211 || cidade: DELFIM MOREIRA || num de processos: Total de Registros: 406
+## ID: 212 || cidade: DELFINÓPOLIS || num de processos: Total de Registros: 598
+## ID: 213 || cidade: DESCOBERTO || num de processos: Total de Registros: 296
+## ID: 214 || cidade: DESTERRO DE ENTRE RIOS || num de processos: Total de Registros: 354
+## ID: 215 || cidade: DESTERRO DO MELO || num de processos: Total de Registros: 182
+## ID: 216 || cidade: DIAMANTINA || num de processos: Total de Registros: 2164
+## ID: 217 || cidade: DIOGO DE VASCONCELOS || num de processos: Total de Registros: 267
+## ID: 218 || cidade: DIONÍSIO || num de processos: Total de Registros: 308
+## ID: 219 || cidade: DIVINÉSIA || num de processos: Total de Registros: 422
+## ID: 220 || cidade: DIVINO || num de processos: Total de Registros: 602
+## ID: 221 || cidade: DIVINO DAS LARANJEIRAS || num de processos: Total de Registros: 271
+## ID: 222 || cidade: DIVINOLÂNDIA DE MINAS || num de processos: Total de Registros: 271
+## ID: 223 || cidade: DIVINÓPOLIS || num de processos: Total de Registros: 4951
+## ID: 224 || cidade: DIVISA NOVA || num de processos: Total de Registros: 210
+## ID: 225 || cidade: DOM CAVATI || num de processos: Total de Registros: 143
+## ID: 226 || cidade: DOM JOAQUIM || num de processos: Total de Registros: 194
+## ID: 227 || cidade: DOM SILVÉRIO || num de processos: Total de Registros: 182
+## ID: 228 || cidade: DOM VIÇOSO || num de processos: Total de Registros: 147
+## ID: 229 || cidade: DONA EUZÉBIA || num de processos: Total de Registros: 347
+## ID: 230 || cidade: DORES DE CAMPOS || num de processos: Total de Registros: 125
+## ID: 231 || cidade: DORES DE GUANHÃES || num de processos: Total de Registros: 258
+## ID: 232 || cidade: DORES DO INDAIÁ || num de processos: Total de Registros: 487
+## ID: 233 || cidade: DORES DO TURVO || num de processos: Total de Registros: 341
+## ID: 234 || cidade: DORESÓPOLIS || num de processos: Total de Registros: 251
+## ID: 235 || cidade: DOURADOQUARA || num de processos: Total de Registros: 283
+## ID: 236 || cidade: ELÓI MENDES || num de processos: Total de Registros: 667
+## ID: 237 || cidade: ENGENHEIRO CALDAS || num de processos: Total de Registros: 428
+## ID: 238 || cidade: ENGENHEIRO NAVARRO || num de processos: Total de Registros: 423
+## ID: 239 || cidade: ENTRE RIOS DE MINAS || num de processos: Total de Registros: 520
+## ID: 240 || cidade: ERVÁLIA || num de processos: Total de Registros: 691
+## ID: 241 || cidade: ESMERALDAS || num de processos: Total de Registros: 1933
+## ID: 242 || cidade: ESPERA FELIZ || num de processos: Total de Registros: 752
+## ID: 243 || cidade: ESPINOSA || num de processos: Total de Registros: 1127
+## ID: 244 || cidade: ESPÍRITO SANTO DO DOURADO || num de processos: Total de Registros: 477
+## ID: 245 || cidade: ESTIVA || num de processos: Total de Registros: 1083
+## ID: 246 || cidade: ESTRELA DALVA || num de processos: Total de Registros: 107
+## ID: 247 || cidade: ESTRELA DO INDAIÁ || num de processos: Total de Registros: 214
+## ID: 248 || cidade: ESTRELA DO SUL || num de processos: Total de Registros: 955
+## ID: 249 || cidade: EUGENÓPOLIS || num de processos: Total de Registros: 317
+## ID: 250 || cidade: EWBANK DA CÂMARA || num de processos: Total de Registros: 135
+## ID: 251 || cidade: EXTREMA || num de processos: Total de Registros: 918
+## ID: 252 || cidade: FAMA || num de processos: Total de Registros: 181
+## ID: 253 || cidade: FARIA LEMOS || num de processos: Total de Registros: 145
+## ID: 254 || cidade: FELÍCIO DOS SANTOS || num de processos: Total de Registros: 297
+## ID: 255 || cidade: SÃO GONÇALO DO RIO PRETO || num de processos: Total de Registros: 231
+## ID: 256 || cidade: FELISBURGO || num de processos: Total de Registros: 189
+## ID: 257 || cidade: FELIXLÂNDIA || num de processos: Total de Registros: 1354
+## ID: 258 || cidade: FERNANDES TOURINHO || num de processos: Total de Registros: 132
+## ID: 259 || cidade: FERROS || num de processos: Total de Registros: 545
+## ID: 260 || cidade: FLORESTAL || num de processos: Total de Registros: 537
+## ID: 261 || cidade: FORMIGA || num de processos: Total de Registros: 3188
+## ID: 262 || cidade: FORMOSO || num de processos: Total de Registros: 749
+## erro ao processar o ID: 263 
+## ID: 264 || cidade: FORTUNA DE MINAS || num de processos: Total de Registros: 266
+## ID: 265 || cidade: FRANCISCO BADARÓ || num de processos: Total de Registros: 392
+## ID: 266 || cidade: FRANCISCO DUMONT || num de processos: Total de Registros: 408
+## ID: 267 || cidade: FRANCISCO SÁ || num de processos: Total de Registros: 1817
+## ID: 268 || cidade: FREI GASPAR || num de processos: Total de Registros: 285
+## ID: 269 || cidade: FREI INOCÊNCIO || num de processos: Total de Registros: 272
+## ID: 270 || cidade: FRONTEIRA || num de processos: Total de Registros: 540
+## ID: 271 || cidade: FRUTAL || num de processos: Total de Registros: 3650
+## ID: 272 || cidade: FUNILÂNDIA || num de processos: Total de Registros: 372
+## ID: 273 || cidade: GALILÉIA || num de processos: Total de Registros: 393
+## ID: 274 || cidade: GONÇALVES || num de processos: Total de Registros: 515
+## ID: 275 || cidade: GONZAGA || num de processos: Total de Registros: 269
+## ID: 276 || cidade: GOUVEIA || num de processos: Total de Registros: 624
+## ID: 277 || cidade: GOVERNADOR VALADARES || num de processos: Total de Registros: 3277
+## ID: 278 || cidade: GRÃO MOGOL || num de processos: Total de Registros: 1682
+## ID: 279 || cidade: GRUPIARA || num de processos: Total de Registros: 144
+## ID: 280 || cidade: GUANHÃES || num de processos: Total de Registros: 1087
+## ID: 281 || cidade: GUAPÉ || num de processos: Total de Registros: 1272
+## ID: 282 || cidade: GUARACIABA || num de processos: Total de Registros: 919
+## ID: 283 || cidade: GUARANÉSIA || num de processos: Total de Registros: 755
+## ID: 284 || cidade: GUARANI || num de processos: Total de Registros: 468
+## ID: 285 || cidade: GUARARÁ || num de processos: Total de Registros: 123
+## ID: 286 || cidade: GUARDA-MOR || num de processos: Total de Registros: 908
+## ID: 287 || cidade: GUAXUPÉ || num de processos: Total de Registros: 1237
+## ID: 288 || cidade: GUIDOVAL || num de processos: Total de Registros: 587
+## ID: 289 || cidade: GUIMARÂNIA || num de processos: Total de Registros: 834
+## ID: 290 || cidade: GUIRICEMA || num de processos: Total de Registros: 851
+## ID: 291 || cidade: GURINHATÃ || num de processos: Total de Registros: 2524
+## ID: 292 || cidade: HELIODORA || num de processos: Total de Registros: 207
+## ID: 293 || cidade: IAPU || num de processos: Total de Registros: 861
+## ID: 294 || cidade: IBERTIOGA || num de processos: Total de Registros: 227
+## ID: 295 || cidade: IBIÁ || num de processos: Total de Registros: 2307
+## ID: 296 || cidade: IBIAÍ || num de processos: Total de Registros: 242
+## ID: 297 || cidade: IBIRACI || num de processos: Total de Registros: 704
+## ID: 298 || cidade: IBIRITÉ || num de processos: Total de Registros: 475
+## ID: 299 || cidade: IBITIÚRA DE MINAS || num de processos: Total de Registros: 148
+## ID: 300 || cidade: IBITURUNA || num de processos: Total de Registros: 158
+## ID: 301 || cidade: IGARAPÉ || num de processos: Total de Registros: 984
+## ID: 302 || cidade: IGARATINGA || num de processos: Total de Registros: 922
+## ID: 303 || cidade: IGUATAMA || num de processos: Total de Registros: 726
+## ID: 304 || cidade: IJACI || num de processos: Total de Registros: 384
+## ID: 305 || cidade: ILICÍNEA || num de processos: Total de Registros: 351
+## ID: 306 || cidade: INCONFIDENTES || num de processos: Total de Registros: 631
+## ID: 307 || cidade: INDIANÓPOLIS || num de processos: Total de Registros: 1670
+## ID: 308 || cidade: INGAÍ || num de processos: Total de Registros: 197
+## ID: 309 || cidade: INHAPIM || num de processos: Total de Registros: 1273
+## ID: 310 || cidade: INHAÚMA || num de processos: Total de Registros: 382
+## ID: 311 || cidade: INIMUTABA || num de processos: Total de Registros: 384
+## ID: 312 || cidade: IPANEMA || num de processos: Total de Registros: 943
+## ID: 313 || cidade: IPATINGA || num de processos: Total de Registros: 1916
+## ID: 314 || cidade: IPIAÇU || num de processos: Total de Registros: 477
+## ID: 315 || cidade: IPUIÚNA || num de processos: Total de Registros: 855
+## ID: 316 || cidade: IRAÍ DE MINAS || num de processos: Total de Registros: 820
+## ID: 317 || cidade: ITABIRA || num de processos: Total de Registros: 2052
+## ID: 318 || cidade: ITABIRINHA DE MANTENA || num de processos: Total de Registros: 332
+## ID: 319 || cidade: ITABIRITO || num de processos: Total de Registros: 1213
+## ID: 320 || cidade: ITACAMBIRA || num de processos: Total de Registros: 412
+## ID: 321 || cidade: ITACARAMBI || num de processos: Total de Registros: 414
+## ID: 322 || cidade: ITAGUARA || num de processos: Total de Registros: 757
+## ID: 323 || cidade: ITAIPÉ || num de processos: Total de Registros: 471
+## ID: 324 || cidade: ITAJUBÁ || num de processos: Total de Registros: 866
+## ID: 325 || cidade: ITAMARANDIBA || num de processos: Total de Registros: 2462
+## ID: 326 || cidade: ITAMARATI DE MINAS || num de processos: Total de Registros: 343
+## ID: 327 || cidade: ITAMBACURI || num de processos: Total de Registros: 563
+## ID: 328 || cidade: ITAMBÉ DO MATO DENTRO || num de processos: Total de Registros: 165
+## ID: 329 || cidade: ITAMOGI || num de processos: Total de Registros: 963
+## ID: 330 || cidade: ITAMONTE || num de processos: Total de Registros: 415
+## ID: 331 || cidade: ITANHANDU || num de processos: Total de Registros: 248
+## ID: 332 || cidade: ITANHOMI || num de processos: Total de Registros: 564
+## ID: 333 || cidade: ITAOBIM || num de processos: Total de Registros: 359
+## ID: 334 || cidade: ITAPAGIPE || num de processos: Total de Registros: 1897
+## ID: 335 || cidade: ITAPECERICA || num de processos: Total de Registros: 1665
+## ID: 336 || cidade: ITAPEVA || num de processos: Total de Registros: 524
+## ID: 337 || cidade: ITATIAIUÇU || num de processos: Total de Registros: 776
+## ID: 338 || cidade: ITAÚNA || num de processos: Total de Registros: 2618
+## ID: 339 || cidade: ITAVERAVA || num de processos: Total de Registros: 375
+## ID: 340 || cidade: ITINGA || num de processos: Total de Registros: 967
+## ID: 341 || cidade: ITUETA || num de processos: Total de Registros: 835
+## ID: 342 || cidade: ITUIUTABA || num de processos: Total de Registros: 4427
+## ID: 343 || cidade: ITUMIRIM || num de processos: Total de Registros: 227
+## ID: 344 || cidade: ITURAMA || num de processos: Total de Registros: 2255
+## ID: 345 || cidade: ITUTINGA || num de processos: Total de Registros: 214
+## ID: 346 || cidade: JABOTICATUBAS || num de processos: Total de Registros: 1330
+## ID: 347 || cidade: JACINTO || num de processos: Total de Registros: 316
+## ID: 348 || cidade: JACUÍ || num de processos: Total de Registros: 336
+## ID: 349 || cidade: JACUTINGA || num de processos: Total de Registros: 945
+## ID: 350 || cidade: JAGUARAÇU || num de processos: Total de Registros: 335
+## ID: 351 || cidade: JANAÚBA || num de processos: Total de Registros: 2737
+## ID: 352 || cidade: JANUÁRIA || num de processos: Total de Registros: 1808
+## ID: 353 || cidade: JAPARAÍBA || num de processos: Total de Registros: 604
+## ID: 354 || cidade: JECEABA || num de processos: Total de Registros: 331
+## ID: 355 || cidade: JEQUERI || num de processos: Total de Registros: 323
+## ID: 356 || cidade: JEQUITAÍ || num de processos: Total de Registros: 338
+## ID: 357 || cidade: JEQUITIBÁ || num de processos: Total de Registros: 625
+## ID: 358 || cidade: JEQUITINHONHA || num de processos: Total de Registros: 786
+## ID: 359 || cidade: JESUÂNIA || num de processos: Total de Registros: 143
+## ID: 360 || cidade: JOAÍMA || num de processos: Total de Registros: 529
+## ID: 361 || cidade: JOANÉSIA || num de processos: Total de Registros: 283
+## ID: 362 || cidade: JOÃO MONLEVADE || num de processos: Total de Registros: 1169
+## ID: 363 || cidade: JOÃO PINHEIRO || num de processos: Total de Registros: 3867
+## ID: 364 || cidade: JOAQUIM FELÍCIO || num de processos: Total de Registros: 314
+## ID: 365 || cidade: JORDÂNIA || num de processos: Total de Registros: 143
+## ID: 366 || cidade: NOVA UNIÃO || num de processos: Total de Registros: 184
+## ID: 367 || cidade: JUIZ DE FORA || num de processos: Total de Registros: 2944
+## ID: 368 || cidade: JURAMENTO || num de processos: Total de Registros: 301
+## ID: 369 || cidade: JURUAIA || num de processos: Total de Registros: 706
+## ID: 370 || cidade: LADAINHA || num de processos: Total de Registros: 495
+## ID: 371 || cidade: LAGAMAR || num de processos: Total de Registros: 1059
+## ID: 372 || cidade: LAGOA DA PRATA || num de processos: Total de Registros: 1156
+## ID: 373 || cidade: LAGOA DOS PATOS || num de processos: Total de Registros: 238
+## ID: 374 || cidade: LAGOA DOURADA || num de processos: Total de Registros: 374
+## ID: 375 || cidade: LAGOA FORMOSA || num de processos: Total de Registros: 1551
+## ID: 376 || cidade: LAGOA SANTA || num de processos: Total de Registros: 1232
+## ID: 377 || cidade: LAJINHA || num de processos: Total de Registros: 946
+## ID: 378 || cidade: LAMBARI || num de processos: Total de Registros: 520
+## ID: 379 || cidade: LAMIM || num de processos: Total de Registros: 288
+## ID: 380 || cidade: LARANJAL || num de processos: Total de Registros: 224
+## ID: 381 || cidade: LASSANCE || num de processos: Total de Registros: 879
+## ID: 382 || cidade: LAVRAS || num de processos: Total de Registros: 1434
+## ID: 383 || cidade: LEANDRO FERREIRA || num de processos: Total de Registros: 507
+## ID: 384 || cidade: LEOPOLDINA || num de processos: Total de Registros: 1081
+## ID: 385 || cidade: LIBERDADE || num de processos: Total de Registros: 106
+## ID: 386 || cidade: LIMA DUARTE || num de processos: Total de Registros: 546
+## ID: 387 || cidade: LUMINÁRIAS || num de processos: Total de Registros: 367
+## ID: 388 || cidade: LUZ || num de processos: Total de Registros: 1403
+## erro ao processar o ID: 389 
+## ID: 390 || cidade: MACHADO || num de processos: Total de Registros: 858
+## ID: 391 || cidade: MADRE DE DEUS DE MINAS || num de processos: Total de Registros: 221
+## ID: 392 || cidade: MALACACHETA || num de processos: Total de Registros: 815
+## ID: 393 || cidade: MANGA || num de processos: Total de Registros: 789
+## ID: 394 || cidade: MANHUAÇU || num de processos: Total de Registros: 2322
+## ID: 395 || cidade: MANHUMIRIM || num de processos: Total de Registros: 829
+## ID: 396 || cidade: MANTENA || num de processos: Total de Registros: 1648
+## ID: 397 || cidade: MARAVILHAS || num de processos: Total de Registros: 435
+## ID: 398 || cidade: MAR DE ESPANHA || num de processos: Total de Registros: 354
+## ID: 399 || cidade: MARIA DA FÉ || num de processos: Total de Registros: 576
+## ID: 400 || cidade: MARIANA || num de processos: Total de Registros: 2126
+## ID: 401 || cidade: MARILAC || num de processos: Total de Registros: 206
+## ID: 402 || cidade: MARIPÁ DE MINAS || num de processos: Total de Registros: 147
+## ID: 403 || cidade: MARLIÉRIA || num de processos: Total de Registros: 555
+## ID: 404 || cidade: MARMELÓPOLIS || num de processos: Total de Registros: 158
+## ID: 405 || cidade: MARTINHO CAMPOS || num de processos: Total de Registros: 1408
+## ID: 406 || cidade: MATERLÂNDIA || num de processos: Total de Registros: 129
+## ID: 407 || cidade: MATEUS LEME || num de processos: Total de Registros: 1112
+## ID: 408 || cidade: MATIAS BARBOSA || num de processos: Total de Registros: 335
+## ID: 409 || cidade: MATIPÓ || num de processos: Total de Registros: 559
+## ID: 410 || cidade: MATO VERDE || num de processos: Total de Registros: 628
+## ID: 411 || cidade: MATOZINHOS || num de processos: Total de Registros: 568
+## ID: 412 || cidade: MATUTINA || num de processos: Total de Registros: 370
+## ID: 413 || cidade: MEDEIROS || num de processos: Total de Registros: 674
+## ID: 414 || cidade: MENDES PIMENTEL || num de processos: Total de Registros: 325
+## ID: 415 || cidade: MEDINA || num de processos: Total de Registros: 471
+## ID: 416 || cidade: MERCÊS || num de processos: Total de Registros: 368
+## ID: 417 || cidade: MESQUITA || num de processos: Total de Registros: 284
+## ID: 418 || cidade: MINAS NOVAS || num de processos: Total de Registros: 1006
+## ID: 419 || cidade: MINDURI || num de processos: Total de Registros: 133
+## ID: 420 || cidade: MIRABELA || num de processos: Total de Registros: 659
+## ID: 421 || cidade: MIRADOURO || num de processos: Total de Registros: 270
+## ID: 422 || cidade: MIRAÍ || num de processos: Total de Registros: 437
+## ID: 423 || cidade: MOEDA || num de processos: Total de Registros: 291
+## ID: 424 || cidade: MOEMA || num de processos: Total de Registros: 434
+## ID: 425 || cidade: MONJOLOS || num de processos: Total de Registros: 183
+## ID: 426 || cidade: MONSENHOR PAULO || num de processos: Total de Registros: 229
+## ID: 427 || cidade: MONTALVÂNIA || num de processos: Total de Registros: 662
+## ID: 428 || cidade: MONTE ALEGRE DE MINAS || num de processos: Total de Registros: 2325
+## ID: 429 || cidade: MONTE AZUL || num de processos: Total de Registros: 981
+## ID: 430 || cidade: MONTE BELO || num de processos: Total de Registros: 577
+## ID: 431 || cidade: MONTE CARMELO || num de processos: Total de Registros: 3564
+## ID: 432 || cidade: MONTE SANTO DE MINAS || num de processos: Total de Registros: 1020
+## ID: 433 || cidade: MONTES CLAROS || num de processos: Total de Registros: 6686
+## ID: 434 || cidade: MONTE SIÃO || num de processos: Total de Registros: 1259
+## ID: 435 || cidade: MORADA NOVA DE MINAS || num de processos: Total de Registros: 1038
+## ID: 436 || cidade: MORRO DA GARÇA || num de processos: Total de Registros: 245
+## ID: 437 || cidade: MORRO DO PILAR || num de processos: Total de Registros: 185
+## ID: 438 || cidade: MUNHOZ || num de processos: Total de Registros: 570
+## ID: 439 || cidade: MURIAÉ || num de processos: Total de Registros: 1376
+## ID: 440 || cidade: MUTUM || num de processos: Total de Registros: 1222
+## ID: 441 || cidade: MUZAMBINHO || num de processos: Total de Registros: 1292
+## ID: 442 || cidade: NACIP RAYDAN || num de processos: Total de Registros: 96
+## ID: 443 || cidade: NANUQUE || num de processos: Total de Registros: 773
+## ID: 444 || cidade: NATÉRCIA || num de processos: Total de Registros: 132
+## ID: 445 || cidade: NAZARENO || num de processos: Total de Registros: 287
+## ID: 446 || cidade: NEPOMUCENO || num de processos: Total de Registros: 728
+## ID: 447 || cidade: NOVA ERA || num de processos: Total de Registros: 503
+## ID: 448 || cidade: NOVA LIMA || num de processos: Total de Registros: 2783
+## ID: 449 || cidade: NOVA MÓDICA || num de processos: Total de Registros: 150
+## ID: 450 || cidade: NOVA PONTE || num de processos: Total de Registros: 1458
+## ID: 451 || cidade: NOVA RESENDE || num de processos: Total de Registros: 510
+## ID: 452 || cidade: NOVA SERRANA || num de processos: Total de Registros: 2872
+## ID: 453 || cidade: NOVO CRUZEIRO || num de processos: Total de Registros: 897
+## ID: 454 || cidade: OLARIA || num de processos: Total de Registros: 82
+## ID: 455 || cidade: OLÍMPIO NORONHA || num de processos: Total de Registros: 46
+## ID: 456 || cidade: OLIVEIRA || num de processos: Total de Registros: 1036
+## ID: 457 || cidade: OLIVEIRA FORTES || num de processos: Total de Registros: 99
+## ID: 458 || cidade: ONÇA DE PITANGUI || num de processos: Total de Registros: 669
+## ID: 459 || cidade: OURO BRANCO || num de processos: Total de Registros: 559
+## ID: 460 || cidade: OURO FINO || num de processos: Total de Registros: 1952
+## ID: 461 || cidade: OURO PRETO || num de processos: Total de Registros: 1912
+## ID: 462 || cidade: OURO VERDE DE MINAS || num de processos: Total de Registros: 258
+## ID: 463 || cidade: PADRE PARAÍSO || num de processos: Total de Registros: 259
+## ID: 464 || cidade: PAINEIRAS || num de processos: Total de Registros: 592
+## ID: 465 || cidade: PAINS || num de processos: Total de Registros: 737
+## ID: 466 || cidade: PAIVA || num de processos: Total de Registros: 60
+## ID: 467 || cidade: PALMA || num de processos: Total de Registros: 186
+## erro ao processar o ID: 468 
+## ID: 469 || cidade: PAPAGAIOS || num de processos: Total de Registros: 904
+## ID: 470 || cidade: PARACATU || num de processos: Total de Registros: 4338
+## ID: 471 || cidade: PARÁ DE MINAS || num de processos: Total de Registros: 3358
+## ID: 472 || cidade: PARAGUAÇU || num de processos: Total de Registros: 1108
+## ID: 473 || cidade: PARAISÓPOLIS || num de processos: Total de Registros: 489
+## ID: 474 || cidade: PARAOPEBA || num de processos: Total de Registros: 1231
+## ID: 475 || cidade: PASSABÉM || num de processos: Total de Registros: 78
+## ID: 476 || cidade: PASSA QUATRO || num de processos: Total de Registros: 245
+## ID: 477 || cidade: PASSA TEMPO || num de processos: Total de Registros: 539
+## ID: 478 || cidade: PASSA VINTE || num de processos: Total de Registros: 72
+## ID: 479 || cidade: PASSOS || num de processos: Total de Registros: 2074
+## ID: 480 || cidade: PATOS DE MINAS || num de processos: Total de Registros: 5286
+## ID: 481 || cidade: PATROCÍNIO || num de processos: Total de Registros: 6537
+## ID: 482 || cidade: PATROCÍNIO DO MURIAÉ || num de processos: Total de Registros: 198
+## ID: 483 || cidade: PAULA CÂNDIDO || num de processos: Total de Registros: 520
+## ID: 484 || cidade: PAULISTAS || num de processos: Total de Registros: 125
+## ID: 485 || cidade: PAVÃO || num de processos: Total de Registros: 294
+## ID: 486 || cidade: PEÇANHA || num de processos: Total de Registros: 981
+## ID: 487 || cidade: PEDRA AZUL || num de processos: Total de Registros: 372
+## ID: 488 || cidade: PEDRA DO ANTA || num de processos: Total de Registros: 120
+## ID: 489 || cidade: PEDRA DO INDAIÁ || num de processos: Total de Registros: 712
+## ID: 490 || cidade: PEDRA DOURADA || num de processos: Total de Registros: 78
+## ID: 491 || cidade: PEDRALVA || num de processos: Total de Registros: 312
+## ID: 492 || cidade: PEDRINÓPOLIS || num de processos: Total de Registros: 563
+## ID: 493 || cidade: PEDRO LEOPOLDO || num de processos: Total de Registros: 1195
+## ID: 494 || cidade: PEDRO TEIXEIRA || num de processos: Total de Registros: 60
+## ID: 495 || cidade: PEQUERI || num de processos: Total de Registros: 83
+## ID: 496 || cidade: PEQUI || num de processos: Total de Registros: 449
+## ID: 497 || cidade: PERDIGÃO || num de processos: Total de Registros: 983
+## ID: 498 || cidade: PERDIZES || num de processos: Total de Registros: 2810
+## ID: 499 || cidade: PERDÕES || num de processos: Total de Registros: 570
+## ID: 500 || cidade: PESCADOR || num de processos: Total de Registros: 103
+## ID: 501 || cidade: PIAU || num de processos: Total de Registros: 135
+## ID: 502 || cidade: PIEDADE DE PONTE NOVA || num de processos: Total de Registros: 204
+## ID: 503 || cidade: PIEDADE DO RIO GRANDE || num de processos: Total de Registros: 110
+## ID: 504 || cidade: PIEDADE DOS GERAIS || num de processos: Total de Registros: 259
+## ID: 505 || cidade: PIMENTA || num de processos: Total de Registros: 772
+## ID: 506 || cidade: PIRACEMA || num de processos: Total de Registros: 582
+## ID: 507 || cidade: PIRAJUBA || num de processos: Total de Registros: 637
+## ID: 508 || cidade: PIRANGA || num de processos: Total de Registros: 527
+## ID: 509 || cidade: PIRANGUÇU || num de processos: Total de Registros: 235
+## ID: 510 || cidade: PIRANGUINHO || num de processos: Total de Registros: 330
+## ID: 511 || cidade: PIRAPETINGA || num de processos: Total de Registros: 291
+## ID: 512 || cidade: PIRAPORA || num de processos: Total de Registros: 686
+## ID: 513 || cidade: PIRAÚBA || num de processos: Total de Registros: 434
+## ID: 514 || cidade: PITANGUI || num de processos: Total de Registros: 978
+## ID: 515 || cidade: PIUMHI || num de processos: Total de Registros: 2058
+## ID: 516 || cidade: PLANURA || num de processos: Total de Registros: 553
+## ID: 517 || cidade: POÇO FUNDO || num de processos: Total de Registros: 645
+## ID: 518 || cidade: POÇOS DE CALDAS || num de processos: Total de Registros: 1740
+## ID: 519 || cidade: POCRANE || num de processos: Total de Registros: 617
+## ID: 520 || cidade: POMPÉU || num de processos: Total de Registros: 2479
+## ID: 521 || cidade: PONTE NOVA || num de processos: Total de Registros: 1277
+## ID: 522 || cidade: PORTEIRINHA || num de processos: Total de Registros: 2052
+## ID: 523 || cidade: PORTO FIRME || num de processos: Total de Registros: 316
+## ID: 524 || cidade: POTÉ || num de processos: Total de Registros: 561
+## ID: 525 || cidade: POUSO ALEGRE || num de processos: Total de Registros: 3639
+## ID: 526 || cidade: POUSO ALTO || num de processos: Total de Registros: 250
+## ID: 527 || cidade: PRADOS || num de processos: Total de Registros: 239
+## ID: 528 || cidade: PRATA || num de processos: Total de Registros: 3584
+## ID: 529 || cidade: PRATÁPOLIS || num de processos: Total de Registros: 402
+## ID: 530 || cidade: PRATINHA || num de processos: Total de Registros: 634
+## ID: 531 || cidade: PRESIDENTE BERNARDES || num de processos: Total de Registros: 331
+## ID: 532 || cidade: PRESIDENTE JUSCELINO || num de processos: Total de Registros: 326
+## ID: 533 || cidade: PRESIDENTE KUBITSCHEK || num de processos: Total de Registros: 118
+## ID: 534 || cidade: PRESIDENTE OLEGÁRIO || num de processos: Total de Registros: 2758
+## erro ao processar o ID: 535 
+## ID: 536 || cidade: PRUDENTE DE MORAIS || num de processos: Total de Registros: 298
+## ID: 537 || cidade: QUARTEL GERAL || num de processos: Total de Registros: 246
+## ID: 538 || cidade: QUELUZITO || num de processos: Total de Registros: 171
+## ID: 539 || cidade: RAPOSOS || num de processos: Total de Registros: 128
+## ID: 540 || cidade: RAUL SOARES || num de processos: Total de Registros: 1829
+## ID: 541 || cidade: RECREIO || num de processos: Total de Registros: 314
+## ID: 542 || cidade: RESENDE COSTA || num de processos: Total de Registros: 284
+## ID: 543 || cidade: RESPLENDOR || num de processos: Total de Registros: 879
+## ID: 544 || cidade: RESSAQUINHA || num de processos: Total de Registros: 408
+## ID: 545 || cidade: RIACHO DOS MACHADOS || num de processos: Total de Registros: 309
+## ID: 546 || cidade: RIBEIRÃO DAS NEVES || num de processos: Total de Registros: 1303
+## ID: 547 || cidade: RIBEIRÃO VERMELHO || num de processos: Total de Registros: 114
+## ID: 548 || cidade: RIO ACIMA || num de processos: Total de Registros: 347
+## ID: 549 || cidade: RIO CASCA || num de processos: Total de Registros: 590
+## ID: 550 || cidade: RIO DOCE || num de processos: Total de Registros: 221
+## ID: 551 || cidade: RIO DO PRADO || num de processos: Total de Registros: 188
+## ID: 552 || cidade: RIO ESPERA || num de processos: Total de Registros: 434
+## ID: 553 || cidade: RIO MANSO || num de processos: Total de Registros: 659
+## ID: 554 || cidade: RIO NOVO || num de processos: Total de Registros: 239
+## ID: 555 || cidade: RIO PARANAÍBA || num de processos: Total de Registros: 2085
+## ID: 556 || cidade: RIO PARDO DE MINAS || num de processos: Total de Registros: 1886
+## ID: 557 || cidade: RIO PIRACICABA || num de processos: Total de Registros: 636
+## ID: 558 || cidade: RIO POMBA || num de processos: Total de Registros: 674
+## ID: 559 || cidade: RIO PRETO || num de processos: Total de Registros: 125
+## ID: 560 || cidade: RIO VERMELHO || num de processos: Total de Registros: 287
+## ID: 561 || cidade: RITÁPOLIS || num de processos: Total de Registros: 157
+## ID: 562 || cidade: ROCHEDO DE MINAS || num de processos: Total de Registros: 75
+## ID: 563 || cidade: RODEIRO || num de processos: Total de Registros: 410
+## ID: 564 || cidade: ROMARIA || num de processos: Total de Registros: 625
+## ID: 565 || cidade: RUBELITA || num de processos: Total de Registros: 469
+## ID: 566 || cidade: RUBIM || num de processos: Total de Registros: 219
+## ID: 567 || cidade: SABARÁ || num de processos: Total de Registros: 1168
+## ID: 568 || cidade: SABINÓPOLIS || num de processos: Total de Registros: 907
+## ID: 569 || cidade: SACRAMENTO || num de processos: Total de Registros: 2859
+## ID: 570 || cidade: SALINAS || num de processos: Total de Registros: 1885
+## ID: 571 || cidade: SALTO DA DIVISA || num de processos: Total de Registros: 218
+## ID: 572 || cidade: SANTA BÁRBARA || num de processos: Total de Registros: 836
+## ID: 573 || cidade: SANTA BÁRBARA DO TUGÚRIO || num de processos: Total de Registros: 150
+## ID: 574 || cidade: SANTA CRUZ DO ESCALVADO || num de processos: Total de Registros: 419
+## ID: 575 || cidade: SANTA EFIGÊNIA DE MINAS || num de processos: Total de Registros: 160
+## ID: 576 || cidade: SANTA FÉ DE MINAS || num de processos: Total de Registros: 540
+## ID: 577 || cidade: SANTA JULIANA || num de processos: Total de Registros: 1549
+## ID: 578 || cidade: SANTA LUZIA || num de processos: Total de Registros: 1152
+## ID: 579 || cidade: SANTA MARGARIDA || num de processos: Total de Registros: 760
+## ID: 580 || cidade: SANTA MARIA DE ITABIRA || num de processos: Total de Registros: 457
+## ID: 581 || cidade: SANTA MARIA DO SALTO || num de processos: Total de Registros: 204
+## ID: 582 || cidade: SANTA MARIA DO SUAÇUÍ || num de processos: Total de Registros: 476
+## ID: 583 || cidade: SANTANA DA VARGEM || num de processos: Total de Registros: 307
+## ID: 584 || cidade: SANTANA DE CATAGUASES || num de processos: Total de Registros: 108
+## ID: 585 || cidade: SANTANA DE PIRAPAMA || num de processos: Total de Registros: 690
+## ID: 586 || cidade: SANTANA DO DESERTO || num de processos: Total de Registros: 86
+## ID: 587 || cidade: SANTANA DO GARAMBÉU || num de processos: Total de Registros: 89
+## ID: 588 || cidade: SANTANA DO JACARÉ || num de processos: Total de Registros: 143
+## ID: 589 || cidade: SANTANA DO MANHUAÇU || num de processos: Total de Registros: 676
+## ID: 590 || cidade: SANTANA DO RIACHO || num de processos: Total de Registros: 391
+## ID: 591 || cidade: SANTANA DOS MONTES || num de processos: Total de Registros: 233
+## ID: 592 || cidade: SANTA RITA DE CALDAS || num de processos: Total de Registros: 676
+## ID: 593 || cidade: SANTA RITA DE IBITIPOCA || num de processos: Total de Registros: 140
+## ID: 594 || cidade: SANTA RITA DO ITUETO || num de processos: Total de Registros: 757
+## erro ao processar o ID: 595 
+## ID: 596 || cidade: SANTA RITA DO SAPUCAÍ || num de processos: Total de Registros: 940
+## ID: 597 || cidade: SANTA ROSA DA SERRA || num de processos: Total de Registros: 369
+## ID: 598 || cidade: SANTA VITÓRIA || num de processos: Total de Registros: 3453
+## ID: 599 || cidade: SANTO ANTÔNIO DO AMPARO || num de processos: Total de Registros: 430
+## ID: 600 || cidade: SANTO ANTÔNIO DO AVENTUREIRO || num de processos: Total de Registros: 179
+## ID: 601 || cidade: SANTO ANTÔNIO DO GRAMA || num de processos: Total de Registros: 288
+## ID: 602 || cidade: SANTO ANTÔNIO DO ITAMBÉ || num de processos: Total de Registros: 128
+## ID: 603 || cidade: SANTO ANTÔNIO DO JACINTO || num de processos: Total de Registros: 187
+## ID: 604 || cidade: SANTO ANTÔNIO DO MONTE || num de processos: Total de Registros: 2106
+## ID: 605 || cidade: SANTO ANTÔNIO DO RIO ABAIXO || num de processos: Total de Registros: 92
+## ID: 606 || cidade: SANTO HIPÓLITO || num de processos: Total de Registros: 178
+## ID: 607 || cidade: SANTOS DUMONT || num de processos: Total de Registros: 708
+## ID: 608 || cidade: SÃO BENTO ABADE || num de processos: Total de Registros: 95
+## ID: 609 || cidade: SÃO BRÁS DO SUAÇUÍ || num de processos: Total de Registros: 190
+## ID: 610 || cidade: SÃO DOMINGOS DO PRATA || num de processos: Total de Registros: 1135
+## ID: 611 || cidade: SÃO FRANCISCO || num de processos: Total de Registros: 1922
+## ID: 612 || cidade: SÃO FRANCISCO DE PAULA || num de processos: Total de Registros: 237
+## ID: 613 || cidade: SÃO FRANCISCO DE SALES || num de processos: Total de Registros: 776
+## ID: 614 || cidade: SÃO FRANCISCO DO GLÓRIA || num de processos: Total de Registros: 227
+## ID: 615 || cidade: SÃO GERALDO || num de processos: Total de Registros: 394
+## ID: 616 || cidade: SÃO GERALDO DA PIEDADE || num de processos: Total de Registros: 105
+## ID: 617 || cidade: SÃO GONÇALO DO ABAETÉ || num de processos: Total de Registros: 1054
+## ID: 618 || cidade: SÃO GONÇALO DO PARÁ || num de processos: Total de Registros: 682
+## ID: 619 || cidade: SÃO GONÇALO DO RIO ABAIXO || num de processos: Total de Registros: 988
+## ID: 620 || cidade: SÃO GONÇALO DO SAPUCAÍ || num de processos: Total de Registros: 569
+## ID: 621 || cidade: SÃO GOTARDO || num de processos: Total de Registros: 1555
+## ID: 622 || cidade: SÃO JOÃO BATISTA DO GLÓRIA || num de processos: Total de Registros: 591
+## ID: 623 || cidade: SÃO JOÃO DA MATA || num de processos: Total de Registros: 144
+## ID: 624 || cidade: SÃO JOÃO DA PONTE || num de processos: Total de Registros: 790
+## ID: 625 || cidade: SÃO JOÃO DEL REI || num de processos: Total de Registros: 1153
+## ID: 626 || cidade: SÃO JOÃO DO ORIENTE || num de processos: Total de Registros: 280
+## ID: 627 || cidade: SÃO JOÃO DO PARAÍSO || num de processos: Total de Registros: 980
+## ID: 628 || cidade: SÃO JOÃO EVANGELISTA || num de processos: Total de Registros: 670
+## ID: 629 || cidade: SÃO JOÃO NEPOMUCENO || num de processos: Total de Registros: 573
+## ID: 630 || cidade: SÃO JOSÉ DA SAFIRA || num de processos: Total de Registros: 131
+## ID: 631 || cidade: SÃO JOSÉ DA VARGINHA || num de processos: Total de Registros: 595
+## ID: 632 || cidade: SÃO JOSÉ DO ALEGRE || num de processos: Total de Registros: 113
+## ID: 633 || cidade: SÃO JOSÉ DO DIVINO || num de processos: Total de Registros: 153
+## ID: 634 || cidade: SÃO JOSÉ DO GOIABAL || num de processos: Total de Registros: 257
+## ID: 635 || cidade: SÃO JOSÉ DO JACURI || num de processos: Total de Registros: 306
+## ID: 636 || cidade: SÃO JOSÉ DO MANTIMENTO || num de processos: Total de Registros: 118
+## ID: 637 || cidade: SÃO LOURENÇO || num de processos: Total de Registros: 367
+## ID: 638 || cidade: SÃO MIGUEL DO ANTA || num de processos: Total de Registros: 308
+## ID: 639 || cidade: SÃO PEDRO DA UNIÃO || num de processos: Total de Registros: 379
+## ID: 640 || cidade: SÃO PEDRO DOS FERROS || num de processos: Total de Registros: 280
+## ID: 641 || cidade: SÃO PEDRO DO SUAÇUÍ || num de processos: Total de Registros: 374
+## ID: 642 || cidade: SÃO ROMÃO || num de processos: Total de Registros: 642
+## ID: 643 || cidade: SÃO ROQUE DE MINAS || num de processos: Total de Registros: 2056
+## ID: 644 || cidade: SÃO SEBASTIÃO DA BELA VISTA || num de processos: Total de Registros: 292
+## ID: 645 || cidade: SÃO SEBASTIÃO DO MARANHÃO || num de processos: Total de Registros: 316
+## ID: 646 || cidade: SÃO SEBASTIÃO DO OESTE || num de processos: Total de Registros: 919
+## ID: 647 || cidade: SÃO SEBASTIÃO DO PARAÍSO || num de processos: Total de Registros: 1842
+## ID: 648 || cidade: SÃO SEBASTIÃO DO RIO PRETO || num de processos: Total de Registros: 58
+## ID: 649 || cidade: SÃO SEBASTIÃO DO RIO VERDE || num de processos: Total de Registros: 76
+## ID: 650 || cidade: SÃO TIAGO || num de processos: Total de Registros: 233
+## ID: 651 || cidade: SÃO TOMÁS DE AQUINO || num de processos: Total de Registros: 406
+## ID: 652 || cidade: SÃO TOMÉ DAS LETRAS || num de processos: Total de Registros: 481
+## ID: 653 || cidade: SÃO VICENTE DE MINAS || num de processos: Total de Registros: 288
+## ID: 654 || cidade: SAPUCAÍ MIRIM || num de processos: Total de Registros: 241
+## ID: 655 || cidade: SARDOÁ || num de processos: Total de Registros: 230
+## ID: 656 || cidade: SENADOR CORTES || num de processos: Total de Registros: 110
+## ID: 657 || cidade: SENADOR FIRMINO || num de processos: Total de Registros: 285
+## ID: 658 || cidade: SENADOR JOSÉ BENTO || num de processos: Total de Registros: 266
+## ID: 659 || cidade: SENADOR MODESTINO GONÇALVES || num de processos: Total de Registros: 404
+## ID: 660 || cidade: SENHORA DE OLIVEIRA || num de processos: Total de Registros: 228
+## ID: 661 || cidade: SENHORA DO PORTO || num de processos: Total de Registros: 155
+## ID: 662 || cidade: SENHORA DOS REMÉDIOS || num de processos: Total de Registros: 502
+## ID: 663 || cidade: SERICITA || num de processos: Total de Registros: 326
+## ID: 664 || cidade: SERITINGA || num de processos: Total de Registros: 73
+## ID: 665 || cidade: SERRA AZUL DE MINAS || num de processos: Total de Registros: 78
+## ID: 666 || cidade: SERRA DA SAUDADE || num de processos: Total de Registros: 100
+## ID: 667 || cidade: SERRA DO SALITRE || num de processos: Total de Registros: 1792
+## ID: 668 || cidade: SERRA DOS AIMORÉS || num de processos: Total de Registros: 111
+## ID: 669 || cidade: SERRANIA || num de processos: Total de Registros: 152
+## ID: 670 || cidade: SERRANOS || num de processos: Total de Registros: 85
+## ID: 671 || cidade: SERRO || num de processos: Total de Registros: 620
+## ID: 672 || cidade: SETE LAGOAS || num de processos: Total de Registros: 2738
+## ID: 673 || cidade: SILVEIRÂNIA || num de processos: Total de Registros: 173
+## ID: 674 || cidade: SILVIANÓPOLIS || num de processos: Total de Registros: 381
+## ID: 675 || cidade: SIMÃO PEREIRA || num de processos: Total de Registros: 118
+## ID: 676 || cidade: SIMONÉSIA || num de processos: Total de Registros: 1055
+## ID: 677 || cidade: SOBRÁLIA || num de processos: Total de Registros: 132
+## ID: 678 || cidade: SOLEDADE DE MINAS || num de processos: Total de Registros: 257
+## ID: 679 || cidade: TABULEIRO || num de processos: Total de Registros: 343
+## ID: 680 || cidade: TAIOBEIRAS || num de processos: Total de Registros: 941
+## ID: 681 || cidade: TAPIRA || num de processos: Total de Registros: 696
+## ID: 682 || cidade: TAPIRAÍ || num de processos: Total de Registros: 281
+## ID: 683 || cidade: TAQUARAÇU DE MINAS || num de processos: Total de Registros: 326
+## ID: 684 || cidade: TARUMIRIM || num de processos: Total de Registros: 628
+## ID: 685 || cidade: TEIXEIRAS || num de processos: Total de Registros: 350
+## ID: 686 || cidade: TEÓFILO OTONI || num de processos: Total de Registros: 2453
+## ID: 687 || cidade: TIMÓTEO || num de processos: Total de Registros: 1003
+## ID: 688 || cidade: TIRADENTES || num de processos: Total de Registros: 265
+## ID: 689 || cidade: TIROS || num de processos: Total de Registros: 1162
+## ID: 690 || cidade: TOCANTINS || num de processos: Total de Registros: 723
+## ID: 691 || cidade: TOLEDO || num de processos: Total de Registros: 467
+## ID: 692 || cidade: TOMBOS || num de processos: Total de Registros: 307
+## ID: 693 || cidade: TRÊS CORAÇÕES || num de processos: Total de Registros: 1328
+## ID: 694 || cidade: TRÊS PONTAS || num de processos: Total de Registros: 1146
+## ID: 695 || cidade: TUMIRITINGA || num de processos: Total de Registros: 251
+## ID: 696 || cidade: TUPACIGUARA || num de processos: Total de Registros: 1809
+## ID: 697 || cidade: TURMALINA || num de processos: Total de Registros: 946
+## ID: 698 || cidade: TURVOLÂNDIA || num de processos: Total de Registros: 236
+## ID: 699 || cidade: UBÁ || num de processos: Total de Registros: 3197
+## ID: 700 || cidade: UBAÍ || num de processos: Total de Registros: 382
+## ID: 701 || cidade: UBERABA || num de processos: Total de Registros: 7983
+## erro ao processar o ID: 702 
+## ID: 703 || cidade: UMBURATIBA || num de processos: Total de Registros: 131
+## ID: 704 || cidade: UNAÍ || num de processos: Total de Registros: 4875
+## ID: 705 || cidade: URUCÂNIA || num de processos: Total de Registros: 377
+## ID: 706 || cidade: VARGEM BONITA || num de processos: Total de Registros: 455
+## ID: 707 || cidade: VARGINHA || num de processos: Total de Registros: 1879
+## ID: 708 || cidade: VÁRZEA DA PALMA || num de processos: Total de Registros: 1155
+## ID: 709 || cidade: VARZELÂNDIA || num de processos: Total de Registros: 505
+## ID: 710 || cidade: VAZANTE || num de processos: Total de Registros: 1176
+## ID: 711 || cidade: VERÍSSIMO || num de processos: Total de Registros: 1018
+## ID: 712 || cidade: VESPASIANO || num de processos: Total de Registros: 690
+## ID: 713 || cidade: VIÇOSA || num de processos: Total de Registros: 1365
+## ID: 714 || cidade: VIEIRAS || num de processos: Total de Registros: 243
+## erro ao processar o ID: 715 
+## ID: 716 || cidade: VIRGEM DA LAPA || num de processos: Total de Registros: 385
+## ID: 717 || cidade: VIRGÍNIA || num de processos: Total de Registros: 167
+## ID: 718 || cidade: VIRGINÓPOLIS || num de processos: Total de Registros: 579
+## ID: 719 || cidade: VIRGOLÂNDIA || num de processos: Total de Registros: 140
+## ID: 720 || cidade: VISCONDE DO RIO BRANCO || num de processos: Total de Registros: 1196
+## ID: 721 || cidade: VOLTA GRANDE || num de processos: Total de Registros: 131
+## erro ao processar o ID: 722 
+## ID: 723 || cidade: ITAÚ DE MINAS || num de processos: Total de Registros: 274
+## ID: 724 || cidade: ALFREDO VASCONCELOS || num de processos: Total de Registros: 587
+## ID: 725 || cidade: ARAPORÃ || num de processos: Total de Registros: 550
+## ID: 726 || cidade: CAPITÃO ANDRADE || num de processos: Total de Registros: 231
+## ID: 727 || cidade: CARNEIRINHO || num de processos: Total de Registros: 1165
+## ID: 728 || cidade: CATUJI || num de processos: Total de Registros: 224
+## ID: 729 || cidade: DIVISÓPOLIS || num de processos: Total de Registros: 173
+## ID: 730 || cidade: DURANDÉ || num de processos: Total de Registros: 555
+## ID: 731 || cidade: ENTRE FOLHAS || num de processos: Total de Registros: 213
+## ID: 732 || cidade: FERVEDOURO || num de processos: Total de Registros: 268
+## ID: 733 || cidade: FRONTEIRA DOS VALES || num de processos: Total de Registros: 157
+## ID: 734 || cidade: ICARAÍ DE MINAS || num de processos: Total de Registros: 472
+## ID: 735 || cidade: IPABA || num de processos: Total de Registros: 451
+## ID: 736 || cidade: JAÍBA || num de processos: Total de Registros: 2204
+## ID: 737 || cidade: JAMPRUCA || num de processos: Total de Registros: 201
+## ID: 738 || cidade: JUATUBA || num de processos: Total de Registros: 456
+## ID: 739 || cidade: LAGOA GRANDE || num de processos: Total de Registros: 897
+## ID: 740 || cidade: LIMEIRA DO OESTE || num de processos: Total de Registros: 1493
+## ID: 741 || cidade: LONTRA || num de processos: Total de Registros: 142
+## ID: 742 || cidade: MAMONAS || num de processos: Total de Registros: 200
+## ID: 743 || cidade: MATA VERDE || num de processos: Total de Registros: 83
+## ID: 744 || cidade: MATIAS CARDOSO || num de processos: Total de Registros: 749
+## ID: 745 || cidade: MONTEZUMA || num de processos: Total de Registros: 397
+## ID: 746 || cidade: PALMÓPOLIS || num de processos: Total de Registros: 136
+## ID: 747 || cidade: PEDRAS DE MARIA DA CRUZ || num de processos: Total de Registros: 279
+## ID: 748 || cidade: RIACHINHO || num de processos: Total de Registros: 868
+## ID: 749 || cidade: SANTA BÁRBARA DO LESTE || num de processos: Total de Registros: 294
+## ID: 750 || cidade: SANTA RITA DE MINAS || num de processos: Total de Registros: 207
+## ID: 751 || cidade: SANTANA DO PARAÍSO || num de processos: Total de Registros: 1075
+## ID: 752 || cidade: SÃO JOÃO DO MANHUAÇU || num de processos: Total de Registros: 504
+## ID: 753 || cidade: SÃO JOÃO DO MANTENINHA || num de processos: Total de Registros: 402
+## ID: 754 || cidade: SÃO JOSÉ DA LAPA || num de processos: Total de Registros: 393
+## ID: 755 || cidade: SENADOR AMARAL || num de processos: Total de Registros: 910
+## ID: 756 || cidade: UBAPORANGA || num de processos: Total de Registros: 867
+## ID: 757 || cidade: URUCUIA || num de processos: Total de Registros: 938
+## ID: 758 || cidade: CAPARAÓ || num de processos: Total de Registros: 255
+## ID: 759 || cidade: SETUBINHA || num de processos: Total de Registros: 313
+## ID: 760 || cidade: ARICANDUVA || num de processos: Total de Registros: 416
+## ID: 761 || cidade: BERIZAL || num de processos: Total de Registros: 223
+## ID: 762 || cidade: BONITO DE MINAS || num de processos: Total de Registros: 538
+## ID: 763 || cidade: BRASILÂNDIA DE MINAS || num de processos: Total de Registros: 908
+## ID: 764 || cidade: BUGRE || num de processos: Total de Registros: 474
+## ID: 765 || cidade: CABECEIRA GRANDE || num de processos: Total de Registros: 404
+## erro ao processar o ID: 766 
+## ID: 767 || cidade: CANTAGALO || num de processos: Total de Registros: 295
+## ID: 768 || cidade: CATAS ALTAS || num de processos: Total de Registros: 271
+## ID: 769 || cidade: CATUTI || num de processos: Total de Registros: 270
+## ID: 770 || cidade: CHAPADA GAÚCHA || num de processos: Total de Registros: 679
+## ID: 771 || cidade: CÔNEGO MARINHO || num de processos: Total de Registros: 235
+## ID: 772 || cidade: CONFINS || num de processos: Total de Registros: 240
+## ID: 773 || cidade: CÓRREGO FUNDO || num de processos: Total de Registros: 649
+## ID: 774 || cidade: CRISÓLITA || num de processos: Total de Registros: 316
+## ID: 775 || cidade: CUPARAQUE || num de processos: Total de Registros: 199
+## ID: 776 || cidade: CURRAL DE DENTRO || num de processos: Total de Registros: 317
+## ID: 777 || cidade: DELTA || num de processos: Total de Registros: 322
+## ID: 778 || cidade: DIVISA ALEGRE || num de processos: Total de Registros: 87
+## ID: 779 || cidade: DOM BOSCO || num de processos: Total de Registros: 548
+## ID: 780 || cidade: FRANCISCÓPOLIS || num de processos: Total de Registros: 388
+## ID: 781 || cidade: FREI LAGONEGRO || num de processos: Total de Registros: 118
+## ID: 782 || cidade: FRUTA DE LEITE || num de processos: Total de Registros: 152
+## ID: 783 || cidade: GAMELEIRAS || num de processos: Total de Registros: 792
+## ID: 784 || cidade: GLAUCILÂNDIA || num de processos: Total de Registros: 219
+## ID: 785 || cidade: GOIABEIRA || num de processos: Total de Registros: 138
+## ID: 786 || cidade: GOIANÁ || num de processos: Total de Registros: 157
+## ID: 787 || cidade: GUARACIAMA || num de processos: Total de Registros: 327
+## ID: 788 || cidade: IBIRACATU || num de processos: Total de Registros: 119
+## ID: 789 || cidade: IMBÉ DE MINAS || num de processos: Total de Registros: 467
+## ID: 790 || cidade: INDAIABIRA || num de processos: Total de Registros: 397
+## ID: 791 || cidade: JAPONVAR || num de processos: Total de Registros: 204
+## ID: 792 || cidade: JENIPAPO DE MINAS || num de processos: Total de Registros: 218
+## ID: 793 || cidade: JOSÉ GONÇALVES DE MINAS || num de processos: Total de Registros: 346
+## ID: 794 || cidade: JOSÉ RAYDAN || num de processos: Total de Registros: 205
+## ID: 795 || cidade: JOSENÓPOLIS || num de processos: Total de Registros: 152
+## ID: 796 || cidade: JUVENÍLIA || num de processos: Total de Registros: 489
+## ID: 797 || cidade: LEME DO PRADO || num de processos: Total de Registros: 270
+## ID: 798 || cidade: LUISBURGO || num de processos: Total de Registros: 684
+## ID: 799 || cidade: LUISLÂNDIA || num de processos: Total de Registros: 232
+## ID: 800 || cidade: MÁRIO CAMPOS || num de processos: Total de Registros: 320
+## ID: 801 || cidade: MARTINS SOARES || num de processos: Total de Registros: 564
+## ID: 802 || cidade: MIRAVÂNIA || num de processos: Total de Registros: 142
+## ID: 803 || cidade: MONTE FORMOSO || num de processos: Total de Registros: 101
+## ID: 804 || cidade: NAQUE || num de processos: Total de Registros: 158
+## ID: 805 || cidade: NATALÂNDIA || num de processos: Total de Registros: 294
+## ID: 806 || cidade: NINHEIRA || num de processos: Total de Registros: 248
+## ID: 807 || cidade: NOVA BELÉM || num de processos: Total de Registros: 668
+## ID: 808 || cidade: NOVA PORTEIRINHA || num de processos: Total de Registros: 478
+## ID: 809 || cidade: NOVO ORIENTE DE MINAS || num de processos: Total de Registros: 238
+## ID: 810 || cidade: NOVORIZONTE || num de processos: Total de Registros: 212
+## ID: 811 || cidade: OLHOS D.ÁGUA || num de processos: Total de Registros: 382
+## ID: 812 || cidade: ORATÓRIOS || num de processos: Total de Registros: 216
+## ID: 813 || cidade: ORIZÂNIA || num de processos: Total de Registros: 173
+## ID: 814 || cidade: PADRE CARVALHO || num de processos: Total de Registros: 138
+## ID: 815 || cidade: PAI PEDRO || num de processos: Total de Registros: 357
+## ID: 816 || cidade: PATIS || num de processos: Total de Registros: 256
+## ID: 817 || cidade: PEDRA BONITA || num de processos: Total de Registros: 512
+## ID: 818 || cidade: PERIQUITO || num de processos: Total de Registros: 334
+## ID: 819 || cidade: PIEDADE DE CARATINGA || num de processos: Total de Registros: 531
+## ID: 820 || cidade: PINGO DÁGUA || num de processos: Total de Registros: 162
+## ID: 821 || cidade: PINTÓPOLIS || num de processos: Total de Registros: 664
+## ID: 822 || cidade: PONTO CHIQUE || num de processos: Total de Registros: 218
+## ID: 823 || cidade: PONTO DOS VOLANTES || num de processos: Total de Registros: 303
+## ID: 824 || cidade: REDUTO || num de processos: Total de Registros: 614
+## ID: 825 || cidade: ROSÁRIO DA LIMEIRA || num de processos: Total de Registros: 167
+## ID: 826 || cidade: SANTA BÁRBARA DO MONTE VERDE || num de processos: Total de Registros: 143
+## ID: 827 || cidade: SANTA CRUZ DE MINAS || num de processos: Total de Registros: 66
+## ID: 828 || cidade: SANTA CRUZ DE SALINAS || num de processos: Total de Registros: 114
+## ID: 829 || cidade: SANTA HELENA DE MINAS || num de processos: Total de Registros: 115
+## ID: 830 || cidade: SANTO ANTÔNIO DO RETIRO || num de processos: Total de Registros: 623
+## ID: 831 || cidade: SÃO DOMINGOS DAS DORES || num de processos: Total de Registros: 306
+## ID: 832 || cidade: SÃO FÉLIX DE MINAS || num de processos: Total de Registros: 163
+## ID: 833 || cidade: SÃO GERALDO DO BAIXIO || num de processos: Total de Registros: 186
+## ID: 834 || cidade: SÃO JOÃO DA LAGOA || num de processos: Total de Registros: 524
+## ID: 835 || cidade: SÃO JOÃO DAS MISSÕES || num de processos: Total de Registros: 160
+## ID: 836 || cidade: SÃO JOÃO DO PACUÍ || num de processos: Total de Registros: 223
+## ID: 837 || cidade: SÃO JOAQUIM DE BICAS || num de processos: Total de Registros: 421
+## ID: 838 || cidade: SÃO JOSÉ DA BARRA || num de processos: Total de Registros: 557
+## ID: 839 || cidade: SÃO SEBASTIÃO DA VARGEM ALEGRE || num de processos: Total de Registros: 205
+## ID: 840 || cidade: SÃO SEBASTIÃO DO ANTA || num de processos: Total de Registros: 198
+## ID: 841 || cidade: SARZEDO || num de processos: Total de Registros: 310
+## ID: 842 || cidade: SEM-PEIXE || num de processos: Total de Registros: 233
+## ID: 843 || cidade: SERRANÓPOLIS DE MINAS || num de processos: Total de Registros: 389
+## ID: 844 || cidade: ANGELÂNDIA || num de processos: Total de Registros: 412
+## ID: 845 || cidade: TAPARUBA || num de processos: Total de Registros: 308
+## ID: 846 || cidade: UNIÃO DE MINAS || num de processos: Total de Registros: 1263
+## ID: 847 || cidade: URUANA DE MINAS || num de processos: Total de Registros: 365
+## ID: 848 || cidade: VARGEM ALEGRE || num de processos: Total de Registros: 271
+## ID: 849 || cidade: VARGEM GRANDE DO RIO PARDO || num de processos: Total de Registros: 187
+## ID: 850 || cidade: VARJÃO DE MINAS || num de processos: Total de Registros: 469
+## ID: 851 || cidade: VERDELÂNDIA || num de processos: Total de Registros: 764
+## ID: 852 || cidade: VEREDINHA || num de processos: Total de Registros: 394
+## ID: 853 || cidade: VERMELHO NOVO || num de processos: Total de Registros: 749
+## ID: 854 || cidade: TOCOS DO MOJI || num de processos: Total de Registros: 372
+## ID: 855 || cidade: ALTO JEQUITIBÁ || num de processos: Total de Registros: 494
+## ID: 856 || cidade: CAMPO AZUL || num de processos: Total de Registros: 177
+## ID: 857 || cidade: SANTA RITA DE JACUTINGA || num de processos: Total de Registros: 111
+## ID: 858 || cidade: WENCESLAU BRAZ || num de processos: Total de Registros: 146
+## ID: 859 || cidade: MACHACALIS || num de processos: Total de Registros: 164
